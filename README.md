@@ -76,10 +76,6 @@ This project demonstrates the effectiveness of LSTM neural networks in predictin
 - **Model Optimization**: Experiment with different architectures and hyperparameters to further optimize the model.
 - **Real-time Prediction**: Implement the model for real-time stock price prediction using live data feeds.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Keras](https://keras.io/) for providing the deep learning framework.
